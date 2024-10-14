@@ -26,14 +26,3 @@ A robust grade recording application developed using Java and integrated with my
 * Update and monitor student grades and results.
 
 **Report Generation:** Efficiently produce and print mark sheets in PDF format.
-
-# Screenshots
-![image](https://i.ibb.co/rtGqn1x/image.png)
-
-![image](https://i.ibb.co/TTZ7dgV/image.png)
-
-![image](https://i.ibb.co/60cYswm/image.png)
-
-![image](https://i.ibb.co/jvMF1h7/image.png)
-
-![image](https://i.ibb.co/vv8FJ3j/image.png)
