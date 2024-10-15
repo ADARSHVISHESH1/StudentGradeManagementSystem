@@ -3,7 +3,7 @@
 Manage and monitor your students' performances effortlessly with JSGMS!
 
 ## Overview
-A robust grade recording application developed using Java and integrated with mySQL for seamless data storage and retrieval. This was a school project I completed in 2018.
+A robust grade recording application developed using Java and integrated with mySQL for seamless data storage and retrieval.
 
 ## Features
 
